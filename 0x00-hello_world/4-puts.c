@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - start point
+ *
+ * Return: 0
+ */
 
 int main(void)
 {
