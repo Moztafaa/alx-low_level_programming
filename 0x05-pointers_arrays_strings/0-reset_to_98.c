@@ -1,14 +1,11 @@
 #include "main.h"
 
 /**
- * swap_int - swaps piont value.
- * @a: first integer.
- * @b: second one.
- * Return: nothing.
+ * reset_to_98 - asdflkja.
+ * @n: input integer.
+ * Return: null.
  */
-void swap_int(int *a, int *b)
+void reset_to_98(int *n)
 {
-	int c = *a;
-	*a = *b;
-	*b = c;
+	*n = 98;
 }
