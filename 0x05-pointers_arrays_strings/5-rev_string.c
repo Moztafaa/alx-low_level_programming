@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_string -asdf. 
+ * rev_string - asdf. 
  * @s: asdfa.
  * Return: sadfasdf.
  */
