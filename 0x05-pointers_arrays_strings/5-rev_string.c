@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * rev_string - 
- * @s:
- * Return:
+ * rev_string -asdf. 
+ * @s: asdfa.
+ * Return: sadfasdf.
  */
 void rev_string(char *s)
 {
